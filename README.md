@@ -6,4 +6,4 @@ This repository contains the following notebooks about Physics Informed Neural N
 
 📌 Notebook #2: [JAX + Flax PINNs for 1D and 2D Diffusion Equations](%5B2%5D%20Extension%20to%20higher%20dimensions%20-%20Solution%20of%20Diffusion%20Equations.ipynb)
 
-📌 Notebook #3: [TBD]()
+📌 Notebook #3: [JAX + Flax PINNs for unknown parameter estimation](%5B3%5D%20PINNs%20for%20unknown%20parameter%20estimation.ipynb)
